@@ -1,4 +1,4 @@
-package org.oreilly.headfirst;
+package designpatterns;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
